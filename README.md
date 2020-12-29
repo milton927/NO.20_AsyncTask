@@ -1,2 +1,2 @@
-# NO.20_AsyncTask
- This is a project that threading AsyncTask asynchronous . The project will loading the image then set by the URL and display the loading image after completed.
+# Android-Studio-20-AsyncTask
+ This is a project for AsyncTask asynchronous threading. The project will load the image set by the URL and display the loaded image after completion
